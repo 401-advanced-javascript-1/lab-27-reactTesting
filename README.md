@@ -16,5 +16,5 @@ This lab performs testing on a React component module and deploys the styled app
 - Testing was performed on the counter component module. These were run using renderer
 
 # UML
-![alt]()
+![alt](https://github.com/401-advanced-javascript-1/lab-27-reactTesting/blob/master/img/lab-27-uml.JPG)
 
