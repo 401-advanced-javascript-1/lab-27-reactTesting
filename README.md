@@ -15,7 +15,7 @@ This lab performs testing on a React component module and deploys the styled app
 - index.html: renders the served react files
 
 ## Tests
-- Testing was performed on the counter component module. These were run using renderer
+- Testing was performed on the counter component module. These were run using the React test renderer.
 
 # UML
 ![alt](https://github.com/401-advanced-javascript-1/lab-27-reactTesting/blob/master/img/lab-27-uml.JPG)
