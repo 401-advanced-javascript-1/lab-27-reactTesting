@@ -7,7 +7,6 @@ This lab performs testing on a React component module and deploys the styled app
 [AWS Bucket Deploy](http://js401-lab-27.s3-website-us-west-2.amazonaws.com/)
 [Netlify Deploy](https://competent-thompson-76669b.netlify.com/)
 
-
 ## Modules
 - app.js: contains component modules for header, footer, and counter.
 - index.js: serves app.js to the root in the index.html
@@ -18,3 +17,4 @@ This lab performs testing on a React component module and deploys the styled app
 
 # UML
 ![alt]()
+
