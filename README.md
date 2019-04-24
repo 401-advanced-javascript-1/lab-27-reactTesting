@@ -6,6 +6,7 @@ This lab performs testing on a React component module and deploys the styled app
 - [Github](https://github.com/401-advanced-javascript-1/lab-27-reactTesting)
 - [AWS Bucket Deploy](http://js401-lab-27.s3-website-us-west-2.amazonaws.com/)
 - [Netlify Deploy](https://competent-thompson-76669b.netlify.com/)
+- [AWS Pipeline Deploy](https://js401lab27-lab27reacttestingbucket-tw3imeertmjl.s3-us-west-2.amazonaws.com/index.html)
 
 ## Modules
 - app.js: contains component modules for header, footer, and counter.
